@@ -1,0 +1,7 @@
+# Never commit secrets
+.env
+
+# Optional: common Python ignores
+__pycache__/
+*.pyc
+.venv/
